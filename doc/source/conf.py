@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'django-project-skeleton'
-copyright = u'2015, Mischback'
+copyright = u'2015, AMHZR'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -221,7 +221,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'django-project-skeleton.tex', u'django-project-skeleton Documentation',
-   u'Mischback', 'manual'),
+   u'AMHZR', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -251,7 +251,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'django-project-skeleton', u'django-project-skeleton Documentation',
-     [u'Mischback'], 1)
+     [u'AMHZR'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -265,7 +265,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'django-project-skeleton', u'django-project-skeleton Documentation',
-   u'Mischback', 'django-project-skeleton', 'One line description of project.',
+   u'AMHZR', 'django-project-skeleton', 'One line description of project.',
    'Miscellaneous'),
 ]
 
